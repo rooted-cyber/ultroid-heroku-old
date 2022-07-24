@@ -47,7 +47,7 @@
         }
     },
     "formation": {
-        "worker": {
+        "rootedcyber": {
             "quantity": 1,
             "size": "free"
         }
