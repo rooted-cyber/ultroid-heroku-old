@@ -47,7 +47,7 @@
         }
     },
     "formation": {
-        "rootedcyber": {
+        "main": {
             "quantity": 1,
             "size": "free"
         }
