@@ -5,4 +5,5 @@ pip3 install -r req*
 pip3 install -r res*/st*/op*
 clear
 pip3 -V
+mediainfo
 bash startup
